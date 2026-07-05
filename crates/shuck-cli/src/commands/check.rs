@@ -15,6 +15,7 @@ mod display;
 mod embedded;
 mod run;
 mod settings;
+mod source_resolver;
 mod watch;
 #[cfg(test)]
 mod zsh_plugin_dependency_fixtures;
